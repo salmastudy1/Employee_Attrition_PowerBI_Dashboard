@@ -1,0 +1,1 @@
+This project aims to analyze employee attrition within an organization. The analysis focuses on understanding the factors that contribute to attrition and identifying potential patterns or trends that can help in developing strategies to reduce attrition rates.
